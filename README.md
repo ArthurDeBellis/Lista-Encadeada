@@ -4,8 +4,10 @@ Lista encadeada simples feita usando a linguagem C
 A lista encadeada implementada aqui é bem simples, para executá-la basta ter o gcc instalado.
 
 E no terminal, basta executar os seguintes comandos:
+
 ``
 $ make
+
 $ make run
 ``
 
